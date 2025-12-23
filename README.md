@@ -104,7 +104,7 @@ Review outputs, plots, and evaluation metrics
 
 🤝 Collaboration
 
-This repository is forked from a partner’s project and enhanced collaboratively.
+This repository is collabrated and forked from a partner’s project to enhanced collaboratively.
 
 My Contributions
 
