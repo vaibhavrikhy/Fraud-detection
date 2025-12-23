@@ -64,3 +64,82 @@ Class Imbalance Handling
 Model Training
      ↓
 Evaluation & Comparison
+
+🛠️ Tech Stack
+Category	Tools
+Language	Python
+Platform	Google Colab
+ML	Scikit-learn
+Data	Pandas, NumPy
+Visualization	Matplotlib, Seaborn
+📊 Evaluation Metrics
+
+Rather than relying solely on accuracy, the project emphasizes metrics relevant to fraud detection:
+
+Precision – reducing false positives
+
+Recall – catching fraudulent transactions
+
+F1-Score – balance between precision and recall
+
+Confusion Matrix – detailed error analysis
+
+This mirrors industry evaluation practices for fraud detection systems.
+
+🚀 How to Run
+
+Open the notebook in Google Colab
+
+Run all cells sequentially
+
+Review outputs, plots, and evaluation metrics
+
+✔️ No local setup
+✔️ No environment configuration
+✔️ Fully reproducible
+
+🤝 Collaboration
+
+This repository is forked from a partner’s project and enhanced collaboratively.
+
+My Contributions
+
+🔍 Model experimentation and comparison
+
+📊 Evaluation strategy and metric analysis
+
+🧹 Code structuring and cleanup
+
+📝 Documentation and readability improvements
+
+📈 Results Summary
+
+Models learned meaningful fraud-related patterns despite imbalance
+
+Clear trade-offs observed between precision and recall
+
+Demonstrates importance of preprocessing and evaluation strategy over raw accuracy
+
+Detailed results and plots are available inside the notebook.
+
+🌱 Future Improvements
+
+🔮 Ensemble-based approaches
+
+🧠 Deep learning models for fraud detection
+
+⚡ Real-time or streaming transaction analysis
+
+🧩 Model explainability (SHAP, LIME)
+
+⚠️ Disclaimer
+
+This project is intended for academic and educational purposes only and is not production-ready.
+
+⭐ Acknowledgments
+
+Project partner for initial collaboration
+
+Scikit-learn and open-source ML community
+
+Academic references on fraud detection systems
