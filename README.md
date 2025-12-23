@@ -1,4 +1,4 @@
-** Fraud Detection Using Machine Learning **
+**Fraud Detection Using Machine Learning**
 
 A practical machine learning pipeline for identifying fraudulent financial transactions
 
