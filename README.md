@@ -1,4 +1,4 @@
-Fraud Detection Using Machine Learning
+**Fraud Detection Using Machine Learning**
 
 Detecting suspicious financial transactions with data-driven intelligence
 
@@ -85,7 +85,7 @@ Sit back and explore the results
 
 🤝 Collaboration
 
-This repository is forked from a partner’s project and collaboratively enhanced.
+This repository is collaborated and forked from a partner’s project and collaboratively enhanced.
 
 My Contributions
 
