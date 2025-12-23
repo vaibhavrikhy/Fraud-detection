@@ -2,8 +2,6 @@
 
 *A practical machine learning pipeline for identifying fraudulent financial transactions*
 
----
-
 ## 📌 Project Overview
 
 This project implements a fraud detection system using machine learning techniques to identify suspicious financial transactions in highly imbalanced datasets.
@@ -46,7 +44,7 @@ All experimentation and results are contained within a **single Google Colab not
 - Binary classification target: **Fraud / Non-Fraud**  
 - Highly imbalanced distribution reflecting real-world data  
 
-> Dataset loading, preprocessing, and analysis are handled directly inside the notebook.
+Dataset loading, preprocessing, and analysis are handled directly inside the notebook.
 
 ---
 
@@ -64,7 +62,8 @@ Class Imbalance Handling
 Model Training
      ↓
 Evaluation & Comparison
-
+```
+---
 🛠️ Tech Stack
 Category	Tools
 Language	Python
@@ -72,6 +71,8 @@ Platform	Google Colab
 ML	Scikit-learn
 Data	Pandas, NumPy
 Visualization	Matplotlib, Seaborn
+
+---
 📊 Evaluation Metrics
 
 Rather than relying solely on accuracy, the project emphasizes metrics relevant to fraud detection:
@@ -86,6 +87,7 @@ Confusion Matrix – detailed error analysis
 
 This mirrors industry evaluation practices for fraud detection systems.
 
+---
 🚀 How to Run
 
 Open the notebook in Google Colab
@@ -97,6 +99,8 @@ Review outputs, plots, and evaluation metrics
 ✔️ No local setup
 ✔️ No environment configuration
 ✔️ Fully reproducible
+
+---
 
 🤝 Collaboration
 
@@ -112,6 +116,8 @@ My Contributions
 
 📝 Documentation and readability improvements
 
+---
+
 📈 Results Summary
 
 Models learned meaningful fraud-related patterns despite imbalance
@@ -121,6 +127,8 @@ Clear trade-offs observed between precision and recall
 Demonstrates importance of preprocessing and evaluation strategy over raw accuracy
 
 Detailed results and plots are available inside the notebook.
+
+---
 
 🌱 Future Improvements
 
@@ -132,9 +140,13 @@ Detailed results and plots are available inside the notebook.
 
 🧩 Model explainability (SHAP, LIME)
 
+---
+
 ⚠️ Disclaimer
 
 This project is intended for academic and educational purposes only and is not production-ready.
+
+---
 
 ⭐ Acknowledgments
 
